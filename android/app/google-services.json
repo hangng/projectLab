@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485774833575",
+    "project_id": "projectlab-9bb51",
+    "storage_bucket": "projectlab-9bb51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485774833575:android:0d5cb9c8408ef1283da882",
+        "android_client_info": {
+          "package_name": "com.dino.project.lab.project_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3KMNjh99SJyW51TPChhHUmaMJJxik9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
