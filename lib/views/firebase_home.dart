@@ -3,7 +3,6 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:project_lab/custom_components/color_constant.dart';
 import 'package:project_lab/custom_components/image_constant.dart';
-import 'package:project_lab/custom_components/text_constant.dart';
 import 'package:project_lab/views/components/internet_connection_dialog.dart';
 
 class FirebaseHome extends StatelessWidget {
